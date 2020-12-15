@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Movimiento Libertadores
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -19,13 +19,13 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: Agentes de Cambio para el sisyema político venezolano
 textline: |
   Belkirk College of Engineering
 
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: Conocenos
   href: "/about"
 show_news: true
 show_staff: false
