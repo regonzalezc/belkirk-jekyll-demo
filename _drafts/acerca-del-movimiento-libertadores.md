@@ -2,7 +2,7 @@
 layout: post
 title: Acerca del movimiento Libertadores
 sub_heading: "¿Qué hacemos en el Movimiento por ti?"
-date: 2020-12-16 04:00:00 +0000
+date: 2020-12-14 04:00:00 +0000
 tags:
 - ML
 - Test
