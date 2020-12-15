@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Movimiento Libertadores
@@ -20,8 +20,8 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Agentes de Cambio para el sisyema político venezolano
-textline: |
-  Belkirk College of Engineering
+textline: |-
+  Movimiento Libertadores Lema
 
   Ora et Labora
 hero_button:
